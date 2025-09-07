@@ -4,7 +4,7 @@
  
 🔹I'm an Automation and Controls Engineer
 
-🔹I'm currently pursuing a postgraduate degree in Architecture and Development in JAVA at FIAP
+🔹I'm postgraduated in Architecture and Development in JAVA at FIAP
 
 🔹I speak Portuguese, English and I'm curently studying French
 
