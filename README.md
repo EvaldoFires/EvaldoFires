@@ -2,9 +2,9 @@
 
 ## My Name is Evaldo Fires. Welcome to my GitHub Profile
  
-🔹I'm an Automation and Controls Engineer
-
 🔹I'm postgraduated in Architecture and Development in JAVA at FIAP
+
+🔹I'm an Automation and Controls Engineer
 
 🔹I speak Portuguese, English and I'm curently studying French
 
